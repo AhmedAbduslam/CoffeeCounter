@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Coffee Counter</string>
+    <string name="Name">الاسم</string>
+    <string name="Toppings">الإضافات</string>
+    <string name="Whipped_Cream">كريمة</string>
+    <string name="Chocolate">شوكولاتة</string>
+    <string name="quantity">الكمية</string>
+    <string name="Order_Summary">ملخص الطلبية</string>
+    <string name="Order">اطلب</string>
+    <string name="Order_Summary_Name">الاسم:</string>
+    <string name="Order_Summary_cream">إضافة الكريمة:</string>
+    <string name="Order_Summary_chocolate">إضافة الشوكولاتة:</string>
+    <string name="Order_Summary_quantity">الكمية:</string>
+    <string name="Order_Summary_total">"الإجمالى بالجنيه: "</string>
+    <string name="Order_Summary_thank"> شكرا لك</string>
+    <string name="NoThanks">لا، شكرا</string>
+    <string name="YesPlease">أجل، من فضلك</string>
+    <string name="Toast1">لا يمكنك طلب أقل من 1</string>
+    <string name="Toast2">لا يمكنك طلب أكثر من 10</string>
+</resources>

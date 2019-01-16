@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Coffee Counter</string>
+    <string name="Name">Name</string>
+    <string name="Toppings">Toppings</string>
+    <string name="Whipped_Cream">Whipped Cream</string>
+    <string name="Chocolate">Chocolate</string>
+    <string name="quantity">quantity</string>
+    <string name="Order_Summary">Order Summary</string>
+    <string name="Order">Order</string>
+    <string name="Order_Summary_Name">Name:</string>
+    <string name="Order_Summary_cream">Add Cream:</string>
+    <string name="Order_Summary_chocolate">Add Chocolate:</string>
+    <string name="Order_Summary_quantity">Quantity:</string>
+    <string name="Order_Summary_total">Total= $</string>
+    <string name="Order_Summary_thank">Thank You!</string>
+    <string name="NoThanks">No, Thanks!</string>
+    <string name="YesPlease">Yes, Please!</string>
+    <string name="Toast1">"You can't order less than 1 cup"</string>
+    <string name="Toast2">"You can't order more than 10 cup"</string>
+</resources>
